@@ -1,0 +1,6 @@
+[submodule "amie"]
+	path = amie
+	url = https://github.com/lajus/amie.git
+[submodule "smore"]
+	path = smore
+	url = git@github.com:google-research/smore.git
