@@ -1,0 +1,3 @@
+[submodule "amie"]
+	path = amie
+	url = https://github.com/lajus/amie.git
